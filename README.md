@@ -1,10 +1,18 @@
 # datacleaningcoursera
+
+## Files in this repo
+===========================================================
+* README.md -- you are reading it right now
+* CodeBook.md -- codebook describing variables, the data and transformations
+* run_analysis.R -- actual R code
+* 
 ## How the script work
 ===========================================================
 * First set work directory in UCI HAR Dataset
 * Do not need other library
 
 ## run_analysis.R Steps
+===========================================================
 * Step 1:
   * Merges the training and the test sets to create one data set.
 
