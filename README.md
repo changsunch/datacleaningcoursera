@@ -5,7 +5,8 @@
 * README.md -- you are reading it right now
 * CodeBook.md -- codebook describing variables, the data and transformations
 * run_analysis.R -- actual R code
-* 
+
+
 ## How the script work
 ===========================================================
 * First set work directory in UCI HAR Dataset
